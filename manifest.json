@@ -1,0 +1,26 @@
+{
+  "name": "Scientific Converter",
+  "short_name": "SciConverter",
+  "description": "Free online scientific unit converter for mathematics, physics and chemistry. Includes periodic table, calendar converter and scientific calculator.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1220",
+  "theme_color": "#101827",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
