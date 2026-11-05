@@ -4,7 +4,7 @@ Scientific Converter is a free, multilingual scientific platform designed to mak
 
 It brings together useful tools and educational resources for exploring mathematics, physics, and chemistry in one place.
 
-🌐 Choose Your Language 🇬🇧 English — Current language 🇮🇷 فارسی 🇸🇦 العربية 🇨🇳 中文 🚀 About the Project 
+🌐 Choose Your Language 🇬🇧 English — Current language 🇮🇷 فارسی 🇸🇦 العربية 🇨🇳 中文 🇷🇺 Русский 🚀 About the Project 
 
 Scientific Converter is more than just a unit converter. It is an evolving scientific platform built for students, teachers, science enthusiasts, and anyone curious about the world around them.
 
@@ -37,4 +37,5 @@ If you find Scientific Converter useful, consider giving the project a ⭐ on Gi
 Every bit of support helps the project grow!
 
 Scientific Converter — Explore More. Learn More. Discover More.
+
 
